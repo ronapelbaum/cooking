@@ -30,10 +30,15 @@ layout: default
   </section>
 
   aaa
-  {{ page.galley }}
+  {{ page.gallery }}
+  {{ file.path contains page.gallery }}
   {% for file in site.static_files %}
-  {% if file.extname == ".jpg" %}
-  * [{{ file.path }}]({{ site.baseurl }}{{ file.path }})
+  {% if file.extname == ".jpg" & file.path contains page.gallery %}
+  <div>
+    [{{ file.path }}]
+    ({{ file.url }})
+    <img src="{{ file.url }}" />
+    </div>
   {% endif %}
   {% endfor %}
   {% if galley %}
