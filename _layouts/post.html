@@ -30,14 +30,10 @@ layout: default
         </div>
     </section>
 
-    <span>gallery : {{ page.gallery }}</span>
-    {% if page.gallery %}
-    <section>
-        Gallery:
+    <section class="gallery cf">
         {% for file in site.static_files %}
-        <ul>
             {% if file.path contains page.gallery %}
-            <li>
+            <div>
                 {% if file.extname == ".jpg" %}
                 <img src="{{ site.baseurl }}{{ file.path }}" width="600" height="400"/>
                 {% elsif file.extname == ".mp4" %}
@@ -46,9 +42,8 @@ layout: default
                     Your browser does not support the video tag.
                 </video>
                 {% endif %}
-            </li>
+            </div>
             {% endif %}
-        </ul>
         {% endfor %}
 
     </section>
