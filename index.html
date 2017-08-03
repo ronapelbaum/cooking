@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="previews" {% if site.rtl %} dir="rtl" {% endif %}>
+<section class="previews">
   <div>
     {% for post in paginator.posts %}
       <figure class="absolute-bg preview__img" style="background-image: url('{{ post.image }}');"></figure>
