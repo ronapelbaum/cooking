@@ -36,7 +36,9 @@ layout: default
             <div>
                 {% if file.extname == ".jpg" %}
                 <img src="{{ site.baseurl }}{{ file.path }}" width="600" height="400"/>
-                {% elseif file.extname == ".mp4" %}
+                {% endif %}
+
+                {% if file.extname == ".mp4" %}
                 <video width="600" height="400" controls>
                     <source src="{{ site.baseurl }}{{ file.path }}" type="video/mp4">
                     Your browser does not support the video tag.
