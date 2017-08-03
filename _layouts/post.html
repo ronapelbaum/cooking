@@ -37,7 +37,7 @@ layout: default
   <div>
     [{{ file.path }}]
     ({{ file.url }})
-    <img src="{{ file.url }}" />
+    <img src="{{ site.baseurl }}{{ file.path }}" />
     </div>
   {% endif %}
   {% endfor %}
