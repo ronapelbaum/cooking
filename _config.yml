@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: ronapelbaum@gmail.com
 baseurl: /cooking
 paginate: 5
 paginate_path: "/blog/page-:num"
