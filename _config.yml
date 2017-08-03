@@ -4,6 +4,7 @@ baseurl: /cooking
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
+trl: true
 
 # SEO settings
 title: Cooking
