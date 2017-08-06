@@ -12,7 +12,7 @@
         {% assign cat_dir = site.category_dir | default: 'category' %}
         {% if site.categoriesMap[category] %}
           {% assign cat_display= site.categoriesMap[category] %}
-        {% elsif %}
+        {% else %}
           {% assign cat_display = category %}
         {% endif %}
         <a class="card__link" href="{{ site.baseurl }}/{{ cat_dir }}/{{ category | downcase | slugify }}/">
@@ -27,6 +27,7 @@
           {% endfor %}
           <div class="card__container">
             <h2 class="card__header">{{ cat_display }}</h2>
+            <h2 class="card__header">{{ category }}</h2>
             <p class="card__count">{{ site.categories[category] | size }} Posts</p>
             <span class="card__more">View All</span>
           </div>
