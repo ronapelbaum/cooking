@@ -18,7 +18,7 @@
         {% else %}
           {% assign cat_display = category %}
         {% endif %}
-        <a class="card__link" href="{{ site.baseurl }}/{{ cat_dir }}/{{ category | downcase | slugify }}/">
+        <a class="card__link" href="{{ site.baseurl }}/{{ cat_dir }}/{{ category }}/">
           {% for post in site.categories[category] limit: 1 %}
             <div class="card__img">
               {% if post.image-sm %}
