@@ -1,7 +1,7 @@
 ---
 layout: post
 title: פלאפל דגים
-date: 2017-07-19
+date: 2017-06-28
 categories:
   - טעמים-2017-7
   - ראשונות
