@@ -3,8 +3,8 @@ layout: post
 title: מרק אפונה ונענע
 date: 2017-07-26
 categories:
-  - טעמים-2017-11
-  - מרקים
+  - teaamim-2017
+  - side-dish
 description: 
 image: /cooking/assets/images/pee-nana-soup/2017-07-26 19.24.54.jpg
 gallery: pee-nana-soup

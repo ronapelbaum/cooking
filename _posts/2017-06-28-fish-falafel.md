@@ -3,9 +3,9 @@ layout: post
 title: פלאפל דגים
 date: 2017-06-28
 categories:
-  - טעמים-2017-7
-  - ראשונות
-  - דגים
+  - teaamim-2017
+  - first-dish
+  - fish
 description: 
 image: /cooking/assets/images/fish-falafel/2017-06-28 19.48.18.jpg
 gallery: fish-falafel

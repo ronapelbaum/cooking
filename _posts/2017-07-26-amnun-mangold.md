@@ -3,8 +3,8 @@ layout: post
 title: נתחי אמנון על מצע מנגולד בקרם טחינה ירוקה
 date: 2017-07-26
 categories:
-  - טעמים-2017-11
-  - דגים
+  - teaamim-2017
+  - fish
 description: 
 image: /cooking/assets/images/amnun-mangold/2017-07-26 19.18.59.jpg
 gallery: amnun-mangold

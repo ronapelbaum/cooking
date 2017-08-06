@@ -3,9 +3,8 @@ layout: post
 title: פיש אנד צ׳יפס
 date: 2017-06-28
 categories:
-  - טעמים-2017-7
-  - ראשונות
-  - דגים
+  - teaamim-2017
+  - fish
 description: 
 image: /cooking/assets/images/fish-n-chips/2017-06-28 19.44.33.jpg
 gallery: fish-n-chips

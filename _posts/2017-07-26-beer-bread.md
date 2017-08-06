@@ -3,8 +3,8 @@ layout: post
 title: לחם בירה ושקדים
 date: 2017-07-26
 categories:
-  - טעמים-2017-11
-  - מאפים
+  - teaamim-2017
+  - baking
 description: 
 image: /cooking/assets/images/beer-bread/2017-07-26 19.21.42.jpg
 gallery: beer-bread
