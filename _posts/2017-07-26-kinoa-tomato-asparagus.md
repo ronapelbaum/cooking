@@ -3,7 +3,7 @@ layout: post
 title: עגבניות שרי ואספרגוס מוקפצים על מצע קינואה
 date: 2017-07-26
 categories:
-  - lesson-11
+  - _lesson-11
   - side-dish
 description: 
 image: /teaamim-2017/assets/images/kinoa-tomato-asparagus/2017-07-26 19.15.59.jpg

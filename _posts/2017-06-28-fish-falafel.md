@@ -3,7 +3,7 @@ layout: post
 title: פלאפל דגים
 date: 2017-06-28
 categories:
-  - lesson-7
+  - _lesson-07
   - fish
 description: 
 image: /teaamim-2017/assets/images/fish-falafel/2017-06-28 19.48.18.jpg

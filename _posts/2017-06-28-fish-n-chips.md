@@ -3,7 +3,7 @@ layout: post
 title: פיש אנד צ׳יפס
 date: 2017-06-28
 categories:
-  - lesson-7
+  - _lesson-07
   - fish
 description: 
 image: /teaamim-2017/assets/images/fish-n-chips/2017-06-28 19.44.33.jpg
