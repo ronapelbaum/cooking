@@ -3,7 +3,7 @@ layout: post
 title: מרק אפונה ונענע
 date: 2017-07-26
 categories:
-  - _lesson-11
+  - lesson-11
   - side-dish
 description: 
 image: /teaamim-2017/assets/images/pee-nana-soup/2017-07-26 19.24.54.jpg

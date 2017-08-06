@@ -3,7 +3,7 @@ layout: post
 title: לחם בירה ושקדים
 date: 2017-07-26
 categories:
-  - _lesson-11
+  - lesson-11
   - side-dish
 description: 
 image: /teaamim-2017/assets/images/beer-bread/2017-07-26 19.21.42.jpg
