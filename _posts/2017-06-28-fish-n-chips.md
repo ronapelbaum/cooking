@@ -7,7 +7,7 @@ categories:
   - ראשונות
   - דגים
 description: 
-image: /cooking/assets/images/fish-n-chips/2017-06-28 19.48.18.jpg
+image: /cooking/assets/images/fish-n-chips/2017-06-28 19.40.39.jpg
 gallery: fish-n-chips
 ---
 
