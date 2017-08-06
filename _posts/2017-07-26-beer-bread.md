@@ -6,7 +6,7 @@ categories:
   - lesson-11
   - side-dish
 description: 
-image: /cooking/assets/images/beer-bread/2017-07-26 19.21.42.jpg
+image: /teaamim-2017/assets/images/beer-bread/2017-07-26 19.21.42.jpg
 gallery: beer-bread
 ---
 

@@ -6,7 +6,7 @@ categories:
   - lesson-11
   - side-dish
 description: 
-image: /cooking/assets/images/pee-nana-soup/2017-07-26 19.24.54.jpg
+image: /teaamim-2017/assets/images/pee-nana-soup/2017-07-26 19.24.54.jpg
 gallery: pee-nana-soup
 ---
 

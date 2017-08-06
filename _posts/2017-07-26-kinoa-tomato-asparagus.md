@@ -6,7 +6,7 @@ categories:
   - lesson-11
   - side-dish
 description: 
-image: /cooking/assets/images/kinoa-tomato-asparagus/2017-07-26 19.15.59.jpg
+image: /teaamim-2017/assets/images/kinoa-tomato-asparagus/2017-07-26 19.15.59.jpg
 gallery: kinoa-tomato-asparagus
 ---
 

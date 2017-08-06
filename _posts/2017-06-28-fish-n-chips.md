@@ -6,7 +6,7 @@ categories:
   - lesson-7
   - fish
 description: 
-image: /cooking/assets/images/fish-n-chips/2017-06-28 19.44.33.jpg
+image: /teaamim-2017/assets/images/fish-n-chips/2017-06-28 19.44.33.jpg
 gallery: fish-n-chips
 ---
 

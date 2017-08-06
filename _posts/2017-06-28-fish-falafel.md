@@ -6,7 +6,7 @@ categories:
   - lesson-7
   - fish
 description: 
-image: /cooking/assets/images/fish-falafel/2017-06-28 19.48.18.jpg
+image: /teaamim-2017/assets/images/fish-falafel/2017-06-28 19.48.18.jpg
 gallery: fish-falafel
 ---
 
