@@ -26,6 +26,21 @@ markdown: kramdown
 permalink: /:year/:title/
 categoriesMap:
   fish: דגים
+  side-dish: תוספות ומרקים
+  main-dish: עיקריות
+  lesson-1: שיעור 1
+  lesson-2: שיעור 2
+  lesson-3: שיעור 3
+  lesson-4: שיעור 4
+  lesson-5: שיעור 5
+  lesson-6: שיעור 6
+  lesson-7: שיעור 7
+  lesson-8: שיעור 8
+  lesson-9: שיעור 9
+  lesson-10: שיעור 10
+  lesson-11: שיעור 11
+  lesson-12: שיעור 12
+  lesson-13: שיעור 13
 
 # Sass
 sass:
