@@ -23,7 +23,7 @@ layout: default
         <li class="tabs__item">Categories</li>
       </ul>
     </header>
-
+{{site.categories}}
     <div class="tab">
       <ul itemscope itemtype="http://schema.org/Blog">
         {% for post in site.categories[page.title] %}
