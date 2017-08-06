@@ -7,7 +7,7 @@
     {% endcapture %}
     {% assign sortedCats = cats | split: ' ' | sort %}
 
-    {% for category in sortedCats %}
+    {% for category in site.categories %}
       <li class="card">
         {% assign cat_dir = site.category_dir | default: 'category' %}
         {% if site.categoriesMap[category] %}
