@@ -7,7 +7,8 @@
     {% endcapture %}
     {% assign sortedCats = cats | split: ' ' | sort %}
 <script>
-  console.log("cats: {{  cats }}")
+  console.log("cats: {{  cats | split: ' ' }}")
+  console.log("sortedCats: {{  sortedCats }}")
 </script>
     {% for category in sortedCats %}
       <li class="card">
