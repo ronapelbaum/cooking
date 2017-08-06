@@ -3,8 +3,7 @@ layout: post
 title: פלאפל דגים
 date: 2017-06-28
 categories:
-  - teaamim-2017
-  - first-dish
+  - lesson-7
   - fish
 description: 
 image: /cooking/assets/images/fish-falafel/2017-06-28 19.48.18.jpg
