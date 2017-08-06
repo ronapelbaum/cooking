@@ -24,7 +24,7 @@ include: ["_categories"]
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
 permalink: /:year/:title/
-categories:
+categoriesMap:
   fish: דגים
 
 # Sass
