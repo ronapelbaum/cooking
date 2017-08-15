@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archive
-description: 
+description:
 permalink: /archive/
 ---
 <section class="archives" itemscope itemtype="http://schema.org/Blog">
@@ -27,9 +27,15 @@ permalink: /archive/
             <h2 class="card__header" itemprop="name">{{ post.title }}</h2>
             <p class="card__count" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">
               {{ post.date | date: "%b %-d, %Y" }}
-              {% if post.categories.size > 0 %}
-                in {{ post.categories | join: ', ' }}
+              {% for category in post.categories %}
+                {% if site.categoriesMap[category] %}
+                    {% assign cat_display= site.categoriesMap[category] %}
+                {% else %}
+                    {% assign cat_display = category %}
               {% endif %}
+              <a class="nav--white"
+                 href="{{ site.baseurl }}/category/{{ category | downcase | slugify }}">{{ cat_display }}</a>{% if forloop.last == false %}, {% endif %}
+              {% endfor %}
             </p>
             <span class="card__more">Read Post</span>
           </div>
