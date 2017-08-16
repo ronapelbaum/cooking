@@ -32,9 +32,8 @@ permalink: /archive/
                     {% assign cat_display= site.categoriesMap[category] %}
                 {% else %}
                     {% assign cat_display = category %}
-              {% endif %}
-              <a class="nav--white"
-                 href="{{ site.baseurl }}/category/{{ category | downcase | slugify }}">{{ cat_display }}</a>{% if forloop.last == false %}, {% endif %}
+                {% endif %}
+              {{ cat_display }}{% if forloop.last == false %}, {% endif %}
               {% endfor %}
             </p>
             <span class="card__more">Read Post</span>
